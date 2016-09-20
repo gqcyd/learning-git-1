@@ -6,3 +6,4 @@
 * `git commit -m "put message here, describing activityd"` - commits the file in the repository
 * `git diff` - compares the committed state to the non-added state
 * `git log` - displays a list of activity with messages provided during commit
+* push/pull to collaborators in Github
